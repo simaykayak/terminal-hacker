@@ -1,0 +1,12 @@
+# Built program
+hacker
+hacker.exe
+
+# Build files
+*.o
+*.obj
+*.dSYM/
+build/
+
+# macOS
+.DS_Store
